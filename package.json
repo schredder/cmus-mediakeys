@@ -9,6 +9,6 @@
   "author": "Alexander Zhukov",
   "license": "MIT",
   "dependencies": {
-    "mediakeys": "git+ssh://git@github.com:nogizhopaboroda/mediakeys.git"
+    "mediakeys": "git+ssh://git@github.com:schredder/mediakeys.git"
   }
 }
